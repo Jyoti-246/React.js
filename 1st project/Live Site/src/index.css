@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+.btn:hover {
+  background-color: #6938ef;
+  color: #ffffff;
+}
+
+.image img{
+  width: 1230px;
+  height: 543px;
+  margin-top: 76px;
+  margin-left: 105px;
+  margin-right: 106px;
+  opacity: 0px;
+}
+
+.logos img{
+    height: 80px;
+    width: 1440px;
+}
+
+.options:hover{
+    background-color: #6938ef;
+    color: #ffffff;
+    border-radius: 50px;
+}
